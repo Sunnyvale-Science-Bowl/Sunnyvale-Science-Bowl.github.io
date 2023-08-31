@@ -65,6 +65,11 @@ body {
 	color: #0096FF;
 }
 
+.button:active {
+	background-color: white;
+	color: #0096FF;
+}
+
 .tab {
 	display: inline-block;
 	margin-left: 2em;
